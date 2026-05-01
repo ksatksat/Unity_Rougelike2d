@@ -18,3 +18,16 @@ public sealed class GameManager : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
+/*
+If you want it to trigger only once per press rather than spamming 
+        every frame, swap one of the GetKey calls to GetKeyDown:
+*/
+
+/// <summary>
+/// Cheat code: hold T + Y + U at the same time to jump to the next scene.
+/// 
+/// Setup:
+///   Attach this script to any persistent GameObject in the scene
+///   (e.g. the same GameObject that has GameManager, or the Player).
+///   It works across all scenes automatically.
+/// </summary>
