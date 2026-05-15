@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: e556f896e833e874095e14e69407a1b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8139043882228011772
+    second: pidr_0
+  - first:
+      213: 7300494017801533496
+    second: pidr_1
+  - first:
+      213: 1961138878030627629
+    second: pidr_2
+  - first:
+      213: -2020509181644161295
+    second: pidr_3
+  - first:
+      213: 1636532963658002602
+    second: pidr_4
+  - first:
+      213: 5305590098716964944
+    second: pidr_5
+  - first:
+      213: -4811049803134666729
+    second: pidr_6
+  - first:
+      213: 5947837704567445689
+    second: pidr_7
+  - first:
+      213: 841339813923570508
+    second: pidr_8
+  - first:
+      213: -1788315367928091907
+    second: pidr_9
+  - first:
+      213: -1212653997936309590
+    second: pidr_10
+  - first:
+      213: 8511706014796962066
+    second: pidr_11
+  - first:
+      213: -6782370968769861305
+    second: pidr_12
+  - first:
+      213: 3854909488102329975
+    second: pidr_13
+  - first:
+      213: 70938344847984779
+    second: pidr_14
+  - first:
+      213: -535597898122370889
+    second: pidr_15
+  - first:
+      213: -8836135617160679341
+    second: pidr_16
+  - first:
+      213: 5937434842782734988
+    second: pidr_17
+  - first:
+      213: -6674907109004693868
+    second: pidr_18
+  - first:
+      213: -6410803342236735091
+    second: pidr_19
+  - first:
+      213: 6819645862026318830
+    second: pidr_20
+  - first:
+      213: -1470712607953139559
+    second: pidr_21
+  - first:
+      213: 1150446268675321601
+    second: pidr_22
+  - first:
+      213: -1911997092895209094
+    second: pidr_23
+  - first:
+      213: 8087683479286155421
+    second: pidr_24
+  - first:
+      213: 4820131722337791788
+    second: pidr_25
+  - first:
+      213: 1728920658558795422
+    second: pidr_26
+  - first:
+      213: 6226194688306062097
+    second: pidr_27
+  - first:
+      213: 6027366003152169160
+    second: pidr_28
+  - first:
+      213: 2574612822881251651
+    second: pidr_29
+  - first:
+      213: 7378900193559712911
+    second: pidr_30
+  - first:
+      213: -758555997971932111
+    second: pidr_31
+  - first:
+      213: -6747604074549290137
+    second: pidr_32
+  - first:
+      213: -4011800321385896579
+    second: pidr_33
+  - first:
+      213: 231509607034175472
+    second: pidr_34
+  - first:
+      213: 8627099772814243148
+    second: pidr_35
+  - first:
+      213: 5439367449144623530
+    second: pidr_36
+  - first:
+      213: 7817069641565856624
+    second: pidr_37
+  - first:
+      213: -6508442258656738915
+    second: pidr_38
+  - first:
+      213: -2534691575551583208
+    second: pidr_39
+  - first:
+      213: 6253369852444912962
+    second: pidr_40
+  - first:
+      213: -8442679828470612158
+    second: pidr_41
+  - first:
+      213: 4876358613614135494
+    second: pidr_42
+  - first:
+      213: 943287633994651226
+    second: pidr_43
+  - first:
+      213: -1884999264286734333
+    second: pidr_44
+  - first:
+      213: 6280196404068679154
+    second: pidr_45
+  - first:
+      213: 5503143332923152806
+    second: pidr_46
+  - first:
+      213: 7230738251001069398
+    second: pidr_47
+  - first:
+      213: -2488372573327828784
+    second: pidr_48
+  - first:
+      213: 1037054656746149272
+    second: pidr_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pidr_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 291
+        width: 310
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dab7c26be4c0f80800000000000000
+      internalID: -8139043882228011772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 78
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838bce721a0905560800000000000000
+      internalID: 7300494017801533496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 990
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2349344b6d573b10800000000000000
+      internalID: 1961138878030627629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 982
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe3faaba95b5f3e0800000000000000
+      internalID: -2020509181644161295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 974
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa07d0a4f0226b610800000000000000
+      internalID: 1636532963658002602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 950
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058bad5a51e31a940800000000000000
+      internalID: 5305590098716964944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 806
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718f17fa1b7bb3db0800000000000000
+      internalID: -4811049803134666729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 800
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8da6a11e6fa8250800000000000000
+      internalID: 5947837704567445689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 774
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43ce486a1a0dab00800000000000000
+      internalID: 841339813923570508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 750
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa2644d5a0ae27e0800000000000000
+      internalID: -1788315367928091907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 734
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa8c812d99cb2fe0800000000000000
+      internalID: -1212653997936309590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 715
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21957840687af1670800000000000000
+      internalID: 8511706014796962066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 654
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749ec87d98d20e1a0800000000000000
+      internalID: -6782370968769861305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 646
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e4f9751c36f7530800000000000000
+      internalID: 3854909488102329975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 632
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b884e9d7c060cf000800000000000000
+      internalID: 70938344847984779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 614
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b068f3ac8c2198f0800000000000000
+      internalID: -535597898122370889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 347
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350f5f7d87dbf5580800000000000000
+      internalID: -8836135617160679341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 710
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a97191881066250800000000000000
+      internalID: 5937434842782734988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 742
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eab0b7957fd53a0800000000000000
+      internalID: -6674907109004693868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 403
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89a71d73504807a0800000000000000
+      internalID: -6410803342236735091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 1163
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee39a0c87cf34ae50800000000000000
+      internalID: 6819645862026318830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_21
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 197
+        width: 364
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998c34cdcaaf69be0800000000000000
+      internalID: -1470712607953139559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_22
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 794
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fe09939c437ff00800000000000000
+      internalID: 1150446268675321601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_23
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 657
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79c66236c83775e0800000000000000
+      internalID: -1911997092895209094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_24
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 736
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9885a626493d3070800000000000000
+      internalID: 8087683479286155421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_25
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 720
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f2988634c84e240800000000000000
+      internalID: 4820131722337791788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_26
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 712
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e3b32cd2c5ef710800000000000000
+      internalID: 1728920658558795422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_27
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 194
+        width: 370
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11328eac413e76650800000000000000
+      internalID: 6226194688306062097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_28
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 239
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8a62d027185a350800000000000000
+      internalID: 6027366003152169160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 222
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341b006b8bcdab320800000000000000
+      internalID: 2574612822881251651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 211
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84103681ae176660800000000000000
+      internalID: 7378900193559712911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 198
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c14aeb6511975f0800000000000000
+      internalID: -758555997971932111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 190
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bd28338d1bb52a0800000000000000
+      internalID: -6747604074549290137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_33
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 198
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75eef5fcd83358c0800000000000000
+      internalID: -4011800321385896579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_34
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 200
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffbc51d2cc763300800000000000000
+      internalID: 231509607034175472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_35
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 192
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c453278f88d99b770800000000000000
+      internalID: 8627099772814243148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 152
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1861140e38c7b40800000000000000
+      internalID: 5439367449144623530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_37
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 185
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073e5022c6fcb7c60800000000000000
+      internalID: 7817069641565856624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 142
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91cf9bbf3e5da5a0800000000000000
+      internalID: -6508442258656738915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 123
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c92100177f2dcd0800000000000000
+      internalID: -2534691575551583208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 94
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dad10cfbe68c650800000000000000
+      internalID: 6253369852444912962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 78
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f37af5d6395da80800000000000000
+      internalID: -8442679828470612158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_42
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c803e1b25e4ca340800000000000000
+      internalID: 4876358613614135494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 62
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a561549fa1b371d00800000000000000
+      internalID: 943287633994651226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 22
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3080152082327d5e0800000000000000
+      internalID: -1884999264286734333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 11
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdf2380b5db72750800000000000000
+      internalID: 6280196404068679154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_46
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a991f254b71f5c40800000000000000
+      internalID: 5503143332923152806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_47
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f7fb2112eb85460800000000000000
+      internalID: 7230738251001069398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d858f91456877dd0800000000000000
+      internalID: -2488372573327828784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidr_49
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895d40c37bb546e00800000000000000
+      internalID: 1037054656746149272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pidr_0: -8139043882228011772
+      pidr_1: 7300494017801533496
+      pidr_10: -1212653997936309590
+      pidr_11: 8511706014796962066
+      pidr_12: -6782370968769861305
+      pidr_13: 3854909488102329975
+      pidr_14: 70938344847984779
+      pidr_15: -535597898122370889
+      pidr_16: -8836135617160679341
+      pidr_17: 5937434842782734988
+      pidr_18: -6674907109004693868
+      pidr_19: -6410803342236735091
+      pidr_2: 1961138878030627629
+      pidr_20: 6819645862026318830
+      pidr_21: -1470712607953139559
+      pidr_22: 1150446268675321601
+      pidr_23: -1911997092895209094
+      pidr_24: 8087683479286155421
+      pidr_25: 4820131722337791788
+      pidr_26: 1728920658558795422
+      pidr_27: 6226194688306062097
+      pidr_28: 6027366003152169160
+      pidr_29: 2574612822881251651
+      pidr_3: -2020509181644161295
+      pidr_30: 7378900193559712911
+      pidr_31: -758555997971932111
+      pidr_32: -6747604074549290137
+      pidr_33: -4011800321385896579
+      pidr_34: 231509607034175472
+      pidr_35: 8627099772814243148
+      pidr_36: 5439367449144623530
+      pidr_37: 7817069641565856624
+      pidr_38: -6508442258656738915
+      pidr_39: -2534691575551583208
+      pidr_4: 1636532963658002602
+      pidr_40: 6253369852444912962
+      pidr_41: -8442679828470612158
+      pidr_42: 4876358613614135494
+      pidr_43: 943287633994651226
+      pidr_44: -1884999264286734333
+      pidr_45: 6280196404068679154
+      pidr_46: 5503143332923152806
+      pidr_47: 7230738251001069398
+      pidr_48: -2488372573327828784
+      pidr_49: 1037054656746149272
+      pidr_5: 5305590098716964944
+      pidr_6: -4811049803134666729
+      pidr_7: 5947837704567445689
+      pidr_8: 841339813923570508
+      pidr_9: -1788315367928091907
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

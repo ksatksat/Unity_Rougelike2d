@@ -1,5 +1,4 @@
 using UnityEngine;
-
 /// <summary>
 /// Same as before — no changes required.
 /// ExitPortal uses OnTriggerEnter2D on its own GameObject,
