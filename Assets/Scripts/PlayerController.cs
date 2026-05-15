@@ -30,4 +30,5 @@ public sealed class PlayerController : MonoBehaviour
         if (col.gameObject.CompareTag("Enemy"))
             GameManager.Instance.PlayerDied();
     }
+    
 }
